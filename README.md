@@ -1,7 +1,7 @@
 # Mojiang
 Another majiang game developed by Colson Xu and his sister.
-
-
-
+</br>
+</br>
+</br>
 ###Development Date：
-&nbsp;&nbsp;&nbsp;&nbsp;2017-Feb-2
+2017-Feb-2
