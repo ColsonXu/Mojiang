@@ -10,4 +10,4 @@ Another majiang game developed by Colson Xu and his sister.
 <hr/>
 Licensed under the Creative Common Attribution-NonCommercial 4.0 International License.
 </br>
-[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)
+![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc/4.0/)
