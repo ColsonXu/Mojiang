@@ -1,4 +1,4 @@
-# 魔将(S¬uperjeeba)游戏规则
+# 魔将(Superjeeba)游戏规则
 ## Step 1:
 每位玩家从1-12中选一个数字然后抛出两个骰子，说出数字最接近点数之和的玩家最先出牌，差距最大的玩家为其余玩家的共同敌人（此后称为[Placeholder]）。
 p.s. 如摇出点数距离upper bound 和lower bound点数相同，则重摇骰子。
